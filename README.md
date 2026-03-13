@@ -8,7 +8,15 @@
   <img src="https://raw.githubusercontent.com/sskywwalkerr/sskywwalkerr/output/ocean.gif" alt="ocean snake" />
 </p>
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sskywwalkerr&theme=vue&bg_color=00000000&hide_border=true&area=true&from=2024-01-01&to=2026-12-31)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sskywwalkerr&theme=vue-dark&hide_border=true&background=00000000" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sskywwalkerr&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="github stats" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sskywwalkerr&theme=vue&bg_color=00000000&hide_border=true&area=true)
 
 ## 🧰 Tech Stack
 
