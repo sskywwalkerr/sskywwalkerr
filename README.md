@@ -5,10 +5,6 @@
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sskywwalkerr/sskywwalkerr/output/ocean.gif" alt="ocean snake" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sskywwalkerr&theme=vue-dark&hide_border=true&background=00000000" alt="streak stats" />
 </p>
 
