@@ -4,7 +4,12 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sskywwalkerr/sskywwalkerr/output/github-snake.svg" />
 </picture>
 
-![Sky's recent activity](https://github-readme-activity-graph.vercel.app/graph?username=sskywwalkerr&theme=vue&bg_color=00000000&hide_border=true&days=730)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sskywwalkerr/sskywwalkerr/output/ocean.gif" alt="ocean snake" />
+</p>
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sskywwalkerr&theme=vue&bg_color=00000000&hide_border=true&area=true&from=2024-01-01&to=2026-12-31)
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -21,5 +26,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sskywwalkerr&label=Profile%20views&color=40b983&style=flat" alt="profile views" />
 </p>
-
-# sskywwalkerr
