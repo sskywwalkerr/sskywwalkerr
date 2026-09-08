@@ -4,7 +4,7 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sskywwalkerr/sskywwalkerr/output/github-snake.svg" />
 </picture>
 
-![Activity Graph](https://vercel.app)
+![GitHub Activity Graph](https://vercel.app)
 
 ## Tech Stack
 
