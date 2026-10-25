@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sskywwalkerr&label=Profile%20views&color=40b983&style=flat" alt="profile views" />
+  <img src="https://count.getloli.com/get/@sskywwalkerr?theme=gelbooru" alt="sskywwalkerr profile views" />
 </p>
