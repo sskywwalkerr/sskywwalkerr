@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@sskywwalkerr?theme=gelbooru" alt="sskywwalkerr profile views" />
+  <img src="https://count.getloli.com/get/@sskywwalkerr?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto&v=2" alt="profile views" />
 </p>
